@@ -1,5 +1,5 @@
 ## **H1N1 Vaccination Survey Results Project** ##
-https://static.toiimg.com/thumb/msid-93451651,imgsize-24858,width-838,resizemode-4/93451651.jpg
+![Example Image](https://static.toiimg.com/thumb/msid-93451651,imgsize-24858,width-838,resizemode-4/93451651.jpg)
 
 The dataset was sourced from the [DrivenData Flu Shot Learning competition](https://www.drivendata.org/competitions/66/flu-shot-learning/) and is composed of three primary files: `train.csv`, `test.csv`, and `labels.csv`.
 
